@@ -11,6 +11,7 @@ I build and experiment across the full stack:
 - **Web Development:** `HTML`, `CSS`, `Firebase`, `React Native`
 - **Cybersecurity & Networking:** `Kali Linux`, `Network Protocols`, `OS Security`
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
