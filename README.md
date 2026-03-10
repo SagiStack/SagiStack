@@ -44,7 +44,7 @@ I am constantly sharpening my skills in the following areas:
 ---
 
 ### 📫 Let's Connect
-- **Email:** [sgyny242@gmail.com]
-- **Discord:** [the_lilipro]
+- **Email:** sgyny242@gmail.com
+- **Discord:** the_lilipro
 
 *Always learning, always building.*
